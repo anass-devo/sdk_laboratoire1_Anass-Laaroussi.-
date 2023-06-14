@@ -1,0 +1,11 @@
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\bin\Debug\SDK_Laboratoire1.exe.config
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\bin\Debug\SDK_Laboratoire1.exe
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\bin\Debug\SDK_Laboratoire1.pdb
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\bin\Debug\LibrairieConversionNote.dll
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\bin\Debug\LibrairieConversionNote.pdb
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.csproj.AssemblyReference.cache
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.csproj.SuggestedBindingRedirects.cache
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.csproj.CoreCompileInputs.cache
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.csproj.CopyComplete
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.exe
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\SDK_Laboratoire1\obj\Debug\SDK_Laboratoire1.pdb

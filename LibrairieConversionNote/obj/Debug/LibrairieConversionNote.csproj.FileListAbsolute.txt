@@ -1,0 +1,6 @@
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\bin\Debug\LibrairieConversionNote.dll
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\bin\Debug\LibrairieConversionNote.pdb
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\obj\Debug\LibrairieConversionNote.csproj.AssemblyReference.cache
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\obj\Debug\LibrairieConversionNote.csproj.CoreCompileInputs.cache
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\obj\Debug\LibrairieConversionNote.dll
+C:\Users\msimm\source\repos\sdk_laboratoire1_Anass-Laaroussi.-\LibrairieConversionNote\obj\Debug\LibrairieConversionNote.pdb
